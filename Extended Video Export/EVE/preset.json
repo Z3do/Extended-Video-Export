@@ -1,0 +1,19 @@
+{
+    "audio": {
+        "encoder": "aac",
+        "filters": "",
+        "options": "_sampleFormat=fltp|b=320000|profile=aac_low",
+        "sidedata": ""
+    },
+    "format": {
+        "container": "mp4",
+        "faststart": true
+    },
+    "version": 1,
+    "video": {
+        "encoder": "libx264",
+        "filters": "",
+        "options": "_pixelFormat=yuv420p|crf=2.000|opencl=1|rc=crf|x264-params=bframes=2",
+        "sidedata": ""
+    }
+}
