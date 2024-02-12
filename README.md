@@ -1,6 +1,6 @@
 Hello, **before you start to clarify that I am not the author of this mod**. I just share the update I made.
 This mod will be updated as soon as a new gamebuild is released.
-This version is available from *GameBuild* **1604** to **2944**.
+This version is available from *GameBuild* **1604** to **3095**.
 
 ## How to:
 
