@@ -14,6 +14,6 @@ This version is available from *GameBuild* **1604** to **3095**.
 
 5. Extract the `ExtendedVideoExport.asi` file in to the `plugins` folder
 
-6. Extract the `EVE` folder to `FiveM Application Data\cache\subprocess`
+6. Extract the `EVE` folder to `FiveM Application Data\data\cache\subprocess`
 
 7. Open `ExtendedVideoExport.ini` search for **output_folder** and after it **=** put the folder path where you want your video to be exported once the export is finished. Example: `output_folder = C:\gtavvideo`
