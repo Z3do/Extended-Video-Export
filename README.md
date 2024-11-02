@@ -6,7 +6,7 @@ This version is available from *GameBuild* **1604** to **3258**.
 
 1. Download & install [Voukoder](https://github.com/Vouk/voukoder/releases/tag/12.2)
 
-2. Download & install [ C++ Runtime](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+2. Download & install [C++ Runtime](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 3. Download [Extended Video Export](https://github.com/Z3do/Extended-Video-Export/releases)
 
