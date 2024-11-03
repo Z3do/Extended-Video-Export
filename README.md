@@ -4,7 +4,7 @@ This version is available from *GameBuild* **1604** to **3258**.
 
 ## How to:
 
-1. Download & install [Voukoder](https://github.com/Vouk/voukoder/releases/tag/12.2)
+1. Download & install [Voukoder](https://github.com/Vouk/voukoder/releases)
 
 2. Download & install [C++ Runtime](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
